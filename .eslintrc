@@ -13,7 +13,8 @@
     ],
     "prettier/prettier": "warn",
     "react/prop-types": "warn",
-    "no-unused-vars": "warn"
+    "no-unused-vars": "warn",
+    "jsx-a11y/media-has-caption": 0
   },
   "extends": [
     "eslint:recommended",

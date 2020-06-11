@@ -1,21 +1,2 @@
-Find the repository [on GitHub](https://github.com/fabe/gatsby-universal).
-
-```
-# Installation
-gatsby new my-site https://github.com/fabe/gatsby-universal
-
-# To develop
-yarn develop
-
-# To build
-yarn build
-
-# To test SSR (for Lighthouse etc.)
-yarn ssr
-
-# To format JS (precommit)
-yarn format
-
-# To generate favicons (included in `build`)
-yarn build:favicons
-```
+Giới thiệu về Hiệu ở đây ahihi  
+<img src="https://scontent.fhph1-2.fna.fbcdn.net/v/t1.0-9/10430835_1202834823064165_6371110709157910074_n.jpg?_nc_cat=107&_nc_sid=85a577&_nc_ohc=BEVp2lL-DMUAX_XDFS-&_nc_ht=scontent.fhph1-2.fna&oh=a40f9eee48d8761b5b26b1f08820bb8f&oe=5F0624CD" width="200">

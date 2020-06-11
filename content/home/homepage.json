@@ -1,19 +1,31 @@
 {
   "title": "Home",
   "content": "intro.md",
-  "gallery": [{
-    "title": "React Context",
-    "copy": "For global styles.",
-    "image": "../images/gallery/react-context.jpg"
+  "gallery": [
+    {
+    "title": "Một gia đình kiểu mẫu mấy trăm năm trước",
+    "copy": "Từ cuốn sách Dệt nên triều đại của Vietnam Centre mà mình có cơ hội hợp tác",
+    "image": "../images/gallery/gia-dinh.jpg"
   },
   {
-    "title": "Page Transitions",
-    "copy": "Component-based for easy usage.",
-    "image": "../images/gallery/page-transitions.jpg"
+    "title": "Chúc mừng sinh nhật Bụt",
+    "copy": "",
+    "image": "../images/gallery/but.jpg"
   },
   {
-    "title": "Intersection Observer",
-    "copy": "Including a polyfill for Safari.",
-    "image": "../images/gallery/intersection-observer.jpg"
-  }]
+    "title": "Coffin dance",
+    "copy": "Phú Trọng tam niên, Chân Định huyện tượng nhân Nguyễn thị hý bút",
+    "image": "../images/gallery/coffin.jpg"
+  },
+  {
+    "title": "Tổ tôm",
+    "copy": "Vua Tự Đức đánh tổ tôm",
+    "image": "../images/gallery/to-tom.jpg"
+  },
+  {
+    "title": "Dệt Nên Triều Đại",
+    "copy": "Mua đi sách hay",
+    "image": "../images/gallery/book.jpg"
+  }
+]
 }
